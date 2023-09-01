@@ -1,0 +1,6 @@
+"""This code is adapted from the original Python code found on the FreeCodeCamp YouTube page"""
+#How much do you earn?
+Hours = input("Enter Hours: ")
+Hourly_Rate_of_Pay = input("Enter Rate: ")
+Daily_Pay = float(Hours) * float(Hourly_Rate_of_Pay)
+print("Pay:",Daily_Pay)
