@@ -1,0 +1,3 @@
+#code from freecode camp youtube
+Greeting = input("Enter your name: )
+print("Hello", Greeting)
